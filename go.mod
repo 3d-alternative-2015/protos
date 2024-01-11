@@ -1,4 +1,4 @@
-module protos
+module github.com/3d-alternative-2015/protos
 
 go 1.21.4
 
